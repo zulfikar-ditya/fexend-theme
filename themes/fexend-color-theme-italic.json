@@ -103,10 +103,10 @@
 
 		// https://code.visualstudio.com/api/references/theme-color#dropdown-control
 		// DROPDOWN CONTROL -------------------
-		"dropdown.background": "#7c86ff20",
-		"dropdown.listBackground": "#7c86ff20",
-		"dropdown.border": "#7c86ff20",
-		"dropdown.foreground": "#7c86ff20",
+		"dropdown.background": "#020617",
+		"dropdown.listBackground": "#020617",
+		"dropdown.border": "#7c86ff40",
+		"dropdown.foreground": "#ffffff",
 		// DROPDOWN CONTROL -------------------
 
 		// https://code.visualstudio.com/api/references/theme-color#input-control
