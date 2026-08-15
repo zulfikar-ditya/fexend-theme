@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.9] - 2026-08-12
+
+### Fixed
+
+- [Issue 34](https://github.com/fexend/fexend-theme/issues/34) - Fixed unreadable dropdown text in the Settings editor across all 6 theme variants: `dropdown.foreground` was a 12%-opacity accent color (invisible), and `dropdown.background`/`dropdown.listBackground` were translucent so content behind the open option list bled through. Both are now opaque surfaces with high-contrast foregrounds.
+
 ## [1.0.8] - 2026-04-25
 
 ### Fixed
